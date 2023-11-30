@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, Sithum Jayathilaka
 #### Design and Development
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
