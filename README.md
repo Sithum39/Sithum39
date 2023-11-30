@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Sithum39/Sithum39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Sithum Jayathilaka
+#### Design and Development
+![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm Sithum Jayathilaka from Sri Lanka and I do Design and Development. I really enjoy learning programing languages and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C /HTML  / CSS / JS/  REACT
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sithum39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sithum Jayathilaka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sithum Jayathilaka)  
+
+
+
+
+
