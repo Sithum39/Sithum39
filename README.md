@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
 
-- 🌱 I’m currently learning **Fontend web developing**
+- 🌱 I’m currently learning **Fullstack web developing**
 
 - 💬 Ask me about **Fontend web developing**
 
